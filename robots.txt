@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victoralipioazevedoborges-ops.github.io/microfragmentacao-baixa-latencia/sitemap.xml
